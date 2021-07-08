@@ -1,0 +1,16 @@
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\bin\Debug\net5.0\For Loop ve Break Continue Ifadeleri.exe
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\bin\Debug\net5.0\For Loop ve Break Continue Ifadeleri.deps.json
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\bin\Debug\net5.0\For Loop ve Break Continue Ifadeleri.runtimeconfig.json
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\bin\Debug\net5.0\For Loop ve Break Continue Ifadeleri.runtimeconfig.dev.json
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\bin\Debug\net5.0\For Loop ve Break Continue Ifadeleri.dll
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\bin\Debug\net5.0\ref\For Loop ve Break Continue Ifadeleri.dll
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\bin\Debug\net5.0\For Loop ve Break Continue Ifadeleri.pdb
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\For Loop ve Break Continue Ifadeleri.csproj.AssemblyReference.cache
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\For Loop ve Break Continue Ifadeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\For Loop ve Break Continue Ifadeleri.AssemblyInfoInputs.cache
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\For Loop ve Break Continue Ifadeleri.AssemblyInfo.cs
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\For Loop ve Break Continue Ifadeleri.csproj.CoreCompileInputs.cache
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\For Loop ve Break Continue Ifadeleri.dll
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\ref\For Loop ve Break Continue Ifadeleri.dll
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\For Loop ve Break Continue Ifadeleri.pdb
+C:\Users\brk\Documents\patika\For Loop ve Break Continue Ifadeleri\obj\Debug\net5.0\For Loop ve Break Continue Ifadeleri.genruntimeconfig.cache
